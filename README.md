@@ -2,6 +2,8 @@ Copyright (C) 2020 mirage335
 See the end of the file for license conditions.
 See license.txt for build_firmware_printer_marlin license conditions.
 
+Build environment for various Marlin firmware, including Marlin firmware source code and precompiled binaries for some devices.
+
 # Usage
 
 

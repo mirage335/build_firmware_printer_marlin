@@ -108,3 +108,5 @@ _local/templates
 **/.config/Atom/Cookies*
 **/.config/Atom/IndexedDB/
 
+
+!_local/firmware
